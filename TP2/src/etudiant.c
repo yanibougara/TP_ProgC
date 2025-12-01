@@ -1,6 +1,5 @@
 etudiant.c
 
-@@@@@@@@@@@@@@@@@@@@@@@@@@
 
 #include <stdio.h>
 
@@ -37,11 +36,11 @@ int main(void) {
 
     return 0;
 }
-@@@@@@@@@@@@@@@@@@@@ 
+
 
 etudiant2.c
 
-@@@@@@@@@@@@@@@@@@@@
+
 
 #include <stdio.h>
 
@@ -75,3 +74,4 @@ int main(void) {
 
     return 0;
 }
+
